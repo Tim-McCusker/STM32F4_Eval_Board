@@ -13,3 +13,6 @@ Please also check out the original design and tutorial series:
 GitHub: https://github.com/pms67/STM32F4-Reference-PCB
 
 YouTube: https://www.youtube.com/channel/UCVryWqJ4cSlbTSETBHpBUWw
+
+
+![3D_FRONT_PCB](https://raw.githubusercontent.com/Tim-McCusker/STM32F4_Eval_Board/main/3D_Front.JPG)
