@@ -1,6 +1,6 @@
 # STM32F4 Evaluation Board
 
-# My version of Phil's Labs' STM32F4 Evaluation Board and my first PCB design attempt.  
+## My version of Phil's Labs' STM32F4 Evaluation Board and my first PCB design attempt. ##  
 
 Key enhancements in my version of the project include: 
 - Added ST Microelectronics i-NEMO I2C Inerital Measurement Unit 
