@@ -10,5 +10,6 @@ Key enhancements in my version of the project include:
 
 Please also check out the original design and tutorial series: 
     
-    GitHub: https://github.com/pms67/STM32F4-Reference-PCB 
-    YouTube: https://www.youtube.com/channel/UCVryWqJ4cSlbTSETBHpBUWw
+GitHub: https://github.com/pms67/STM32F4-Reference-PCB
+
+YouTube: https://www.youtube.com/channel/UCVryWqJ4cSlbTSETBHpBUWw
